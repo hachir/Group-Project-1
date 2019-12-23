@@ -1,7 +1,7 @@
 # Group-Project-1
 HikeIt! - a social exploration of Utah's Hiking Trails
 
-https://dansirdan.github.io/hike-it/search.html
+https://hachir.github.io/Group-Project-1/
 
 Group Members:
 
